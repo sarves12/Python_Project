@@ -1,0 +1,2 @@
+print("Welcome")
+2
